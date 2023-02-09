@@ -1,0 +1,14 @@
+.searchBar {
+    height: 100px;
+    width: 600px;
+    margin-inline: auto;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.searchBar input {
+    width: 500px;
+}

@@ -1,0 +1,9 @@
+.card {
+    height: 200px;
+    width: 400px;
+    background-color: aquamarine;
+}
+
+.alco {
+    background-color: red !important;
+}

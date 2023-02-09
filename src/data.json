@@ -1,0 +1,47 @@
+[
+    {
+        "nom": "A1",
+        "alcoholic": true
+    },
+    {
+        "nom": "ABC",
+        "alcoholic": true
+    },
+    {
+        "nom": "Ace",
+        "alcoholic": false
+    },
+    {
+        "nom": "Adam",
+        "alcoholic": true
+    },
+    {
+        "nom": "AT&T",
+        "alcoholic": true
+    },
+    {
+        "nom": "A1",
+        "alcoholic": true
+    },
+    {
+        "nom": "Acid",
+        "alcoholic": true
+    },
+    {
+        "nom": "A. J.",
+        "alcoholic": true
+    },
+    {
+        "nom": "Karsk",
+        "alcoholic": false
+    },
+    {
+        "nom": "Melya",
+        "alcoholic": true
+      },
+      {
+        "nom": "Affair",
+        "alcoholic": true
+      }
+    
+]
